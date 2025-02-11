@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a determined software engineer and eager to learn many things (Backend Developer 👨‍💻, Frontend Developer 🖼, Machine Learning and Artificial Intelligence 🤖, and Enterprise IT 📚) depending on what the project requires. Now, my career is focused on being a frontend and developer with the experience and knowledge that I have. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a determined software engineer and eager to learn many things (Backend Developer 👨‍💻, Frontend Developer 🖼, Machine Learning, and Enterprise IT 📚) depending on what the project requires. Now, my career is focused on being a frontend and developer with the experience and knowledge that I have. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 
 ## 🌐 Socials:
